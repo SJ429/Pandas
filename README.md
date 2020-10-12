@@ -4,7 +4,7 @@
 
 Python Pandas was used to analyze data.
 
-Observations:
+### Observations:
 
 1.	Final Critic and Oathbreaker, Last Hope of the Breaking Storm are the top two for both the most popular and profitable items.
 
@@ -72,7 +72,4 @@ which is the highest amount purchased by any age group and spent a total purchas
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-### Final Considerations
-* Include a written description of three observable trends based on the data noted above.
 
