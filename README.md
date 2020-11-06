@@ -4,7 +4,7 @@
 
 This assignment was to analyze data for the fantasy game Heros of Pymoli using Pandas Library and this was done in the Jupyter Notebook. 
 
-https://nbviewer.jupyter.org/github/SJ429/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli.ipynb
+https://nbviewer.jupyter.org/
 
 ### Observations:
 
